@@ -1,0 +1,2 @@
+package JasonHu.slingleton;
+
